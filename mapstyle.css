@@ -1,0 +1,34 @@
+html, body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+#map {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+#dashboard {
+    height: 33%;
+    padding: 25px;
+    margin: 0;
+    border-top: 2px solid #333;
+}
+
+#dash {
+    margin: 25px 0;
+    width: 400px;
+}
+
+button {
+    margin-right: 10px;
+    font-family: "Proxima Nova W01", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background: transparent;
+}
+
+p {
+    font-size: 17px;
+    margin-bottom: 10px;
+}
